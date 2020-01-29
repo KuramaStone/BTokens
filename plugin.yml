@@ -1,0 +1,12 @@
+name: BTokens
+version: 1.1.0
+author: Brook Stone
+
+main: me.brook.btokens.BTokens
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  btokens:
+    description: Token economy command
+    aliases: [token, tokens, bt]
